@@ -9,7 +9,7 @@ The Python-based Website Blocker program empowers users to boost productivity by
 + You Can set the websites which you need to block in the code itself.
 
 # Contact
-Jayapriyan.M 
-BE-CSE Student
-Email : jayapriyan11802@gmail.com
+Jayapriyan.M     
+BE-CSE Student     
+Email : jayapriyan11802@gmail.com      
 Phone : 7868932481
